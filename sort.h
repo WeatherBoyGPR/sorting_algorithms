@@ -1,6 +1,9 @@
 #ifndef NO_ONE_LIVES_FOREVER
 #define NO_ONE_LIVES_FOREVER
 
+#include <stdio.h>
+#include <stdlib.h>
+
 /**
  * struct listint_s - Doubly linked list node
  *
